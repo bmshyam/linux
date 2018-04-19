@@ -1,4 +1,8 @@
 Test
 Pull
 Checking
+<<<<<<< HEAD
 local
+=======
+merge remote
+>>>>>>> b4b7cecc52bc35e67c611cba5ee08f9534c6d311
